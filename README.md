@@ -1,5 +1,6 @@
+<div align="center">
 ## नमस्ते🙏
-
+</div>
 <!--
 **mohit23x/mohit23x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

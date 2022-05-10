@@ -1,6 +1,9 @@
-<div align="center">
-  <h2>🙏नमस्ते दुनिया🌎</h2>
-</div>
+ 
+<h1>Hello World, I'm Mohit</h1>
+Software developer based out of India.<br>
+Mostly working with React {Native} & Typescript. <br>
+You can find me on other platforms <b>@mohit23x</b>.<br><br> 
+
 <!--
 **mohit23x/mohit23x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

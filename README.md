@@ -1,7 +1,7 @@
  
 <h1>Hello World, I'm Mohit</h1>
 Software developer based out of India.<br>
-Mostly working with React {Native} & TS. <br>
+Currently working with React {Native} & TS. <br>
 You can find me on other platforms <b>@mohit23x</b>.<br><br> 
 
 <!--

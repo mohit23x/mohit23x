@@ -1,6 +1,6 @@
  
  
-# $${{Hello \space World, i \space am \space}\color{lightgreen}Mohit}$$
+# $${{ hello \space world, i \space am \space}\color{lightgreen}Mohit}$$
 
 <p align="center">
 🔭 Software developer based out of India.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>

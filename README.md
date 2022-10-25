@@ -1,5 +1,6 @@
  
-<h1>Hello World, I'm Mohit</h1>
+ 
+# $${{Hello \space World, i \space am \space}\color{lightgreen}Mohit}$$
 🔭 Software developer based out of India.<br>
 🌱 Currently working with React {Native} & TS. <br>
 ⚡ You can find me on other platforms <b>@mohit23x</b>.

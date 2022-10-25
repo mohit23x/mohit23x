@@ -4,8 +4,8 @@
 
 <p align="center">
 🔭 Software developer based out of India.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-🌱 Currently working with React {Native} & TS.<br>
-⚡ Find me on other platforms <b>@mohit23x &nbsp;&nbsp;&nbsp;&nbsp;</b>.
+🌱 Currently working with React {Native} & TS<br>
+⚡ Find me on other platforms <b>@mohit23x &nbsp;&nbsp;&nbsp;&nbsp;</b>
 </p>
 <!--
 **mohit23x/mohit23x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

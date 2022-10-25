@@ -1,9 +1,12 @@
  
  
 # $${{Hello \space World, i \space am \space}\color{lightgreen}Mohit}$$
-🔭 Software developer based out of India.<br>
-🌱 Currently working with React {Native} & TS. <br>
-⚡ You can find me on other platforms <b>@mohit23x</b>.
+
+<p align="center">
+🔭 Software developer based out of India.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+🌱 Currently working with React {Native} & TS.<br>
+⚡ Find me on other platforms <b>@mohit23x &nbsp;&nbsp;&nbsp;&nbsp;</b>.
+</p>
 <!--
 **mohit23x/mohit23x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

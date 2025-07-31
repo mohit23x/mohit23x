@@ -1,7 +1,9 @@
- 
- 
-# $${{ Hello \space world, I'm \space}\color{lightgreen}Mohit}$$
 
+
+<img src="https://github.com/user-attachments/assets/6408bf16-b738-41fe-854d-2467ec7545b2" width="50" height="50" />
+<div style="font-size: 50px"><i>Hello world, I'm <b><span style="color:green">Mohit</span></b></i></div> 
+<img height="4" alt="green-beam" src="https://github.com/user-attachments/assets/603531fc-497b-4ad7-8d5d-d20df0023c68" />
+<p></p>
 <p align="left">
 🔭 Software developer based out of India.<br>
 🌱 Full stack + mobile developer.<br>

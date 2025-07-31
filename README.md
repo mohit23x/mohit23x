@@ -1,8 +1,8 @@
  
  
-# $${{ hello \space world, I'm \space}\color{lightgreen}Mohit}$$
+# $${{ Hello \space world, I'm \space}\color{lightgreen}Mohit}$$
 
-<p align="center">
+<p align="left">
 🔭 Software developer based out of India.<br>
 🌱 Full stack + mobile developer.<br>
 ⚡ Jack of all trades but master of React {Native} and TS.</b>
